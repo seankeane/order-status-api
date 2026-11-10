@@ -1,0 +1,9 @@
+{
+  "name": "order-status-api",
+  "version": "1.0.0",
+  "description": "Demo Order Status REST API for exposing as MCP tools via MuleSoft MCP Bridge",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
